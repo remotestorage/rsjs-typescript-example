@@ -9,7 +9,7 @@
   "license": "MIT",
   "devDependencies": {
     "remotestorage-widget": "^1.5.4",
-    "remotestoragejs": "^2.0.0-beta.1",
+    "remotestoragejs": "2.0.0-beta.3",
     "typescript": "^4.5.5"
   }
 }
